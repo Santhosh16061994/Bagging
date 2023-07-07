@@ -1,4 +1,4 @@
-# Bagging
+# Bagging & Boosting
 
 
 Bagging, short for bootstrap aggregating, is a machine learning ensemble technique that combines multiple models to improve the overall prediction accuracy and reduce variance. It involves training multiple models on different subsets of the training data, obtained through bootstrapping (random sampling with replacement), and then aggregating their predictions to make the final prediction.
